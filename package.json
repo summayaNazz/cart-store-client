@@ -1,7 +1,6 @@
 {
   "name": "baali-store",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
@@ -24,5 +23,15 @@
   },
   "engines": {
     "node": "12.11.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summayaNazz/cart-store-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/summayaNazz/cart-store-backend/issues"
+  },
+  "homepage": "https://github.com/summayaNazz/cart-store-backend#readme",
+  "description": ""
 }
